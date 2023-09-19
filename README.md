@@ -31,12 +31,14 @@
 ### 옷장
 
 |Benefit|SHIRT|SLEEVELESS|DRESS|SHORT SKIRT|SHORT PANTS|LONG SKIRT|LONG PANTS|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**RED**|![redTop 1](https://github.com/5-potato/Benefit/assets/102959835/ab32c631-d6cd-4f15-837f-f1de93f7f49f){: width="250" height="230"}|![redSleeve 1](https://github.com/5-potato/Benefit/assets/102959835/c3323a66-35d7-4313-a6b8-044754fae386)|![redOne 1](https://github.com/5-potato/Benefit/assets/102959835/ec4491fb-96be-40cd-aeda-6bb37133734f)|
-|**PINK**|오른쪽정렬|중앙정렬|
-|**YELLO**|오른쪽정렬|중앙정렬|
-|**GREEN**|오른쪽정렬|중앙정렬|
-|**BLUE**|오른쪽정렬|중앙정렬|
-|**WHITE**|오른쪽정렬|중앙정렬|
-|**BLACK**|오른쪽정렬|중앙정렬|
+|:---:|:----------:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**RED**|<img src="image/redTop 1.png" width="280" height="150">|<img src="image/redSleeve 1.png" width="250" height="150">|<img src="image/redOne 1.png" width="250" height="150">|<img src="image/redSkirt 1.png" width="250" height="150">|<img src="image/redPants 1.png" width="250" height="150">|<img src="image/redLongSkirt 1.png" width="250" height="150">|<img src="image/redLongPants 1.png" width="250" height="150">|
+|**PINK**|<img src="image/pinkTop 1.png" width="280" height="150">|<img src="image/pinkSleeve 1.png" width="250" height="150">|<img src="image/pinkOne 1.png" width="250" height="150">|<img src="image/pinkSkirt 1.png" width="250" height="150">|<img src="image/pinkPants 1.png" width="250" height="150">|<img src="image/pinkLongSkirt 1.png" width="250" height="150">|<img src="image/pinkLongPants 1.png" width="250" height="150">|
+|**YELLO**|<img src="image/yellowTop 1.png" width="280" height="150">|<img src="image/yellowSleeve 1.png" width="250" height="150">|<img src="image/yellowOne 1.png" width="250" height="150">|<img src="image/yellowSkirt 1.png" width="250" height="150">|<img src="image/yellowPants 1.png" width="250" height="150">|<img src="image/yellowLongSkirt 1.png" width="250" height="150">|<img src="image/yellowLongPants 1.png" width="250" height="150">|
+|**GREEN**|<img src="image/greenTop 1.png" width="280" height="150">|<img src="image/greenSleeve 1.png" width="250" height="150">|<img src="image/greenOne 1.png" width="250" height="150">|<img src="image/greenSkirt 1.png" width="250" height="150">|<img src="image/greenPants 1.png" width="250" height="150">|<img src="image/greenLongSkirt 1.png" width="250" height="150">|<img src="image/greenLongPants 1.png" width="250" height="150">|
+|**BLUE**|<img src="image/blueTop 1.png" width="280" height="150">|<img src="image/blueSleeve 1.png" width="250" height="150">|<img src="image/blueOne 1.png" width="250" height="150">|<img src="image/blueSkirt 1.png" width="250" height="150">|<img src="image/bluePants 1.png" width="250" height="150">|<img src="image/blueLongSkirt 1.png" width="250" height="150">|<img src="image/blueLongPants 1.png" width="250" height="150">|
+|**WHITE**|<img src="image/whiteTop 1.png" width="280" height="150">|<img src="image/whiteSleeve 1.png" width="250" height="150">|<img src="image/whiteOne 1.png" width="250" height="150">|<img src="image/whiteSkirt 1.png" width="250" height="150">|<img src="image/whitePants 1.png" width="250" height="150">|<img src="image/whiteLongSkirt 1.png" width="250" height="150">|<img src="image/whiteLongPants 1.png" width="250" height="150">|
+|**BLACK**|<img src="image/blackTop 1.png" width="280" height="150">|<img src="image/blackSleeve 1.png" width="250" height="150">|<img src="image/blackOne 1.png" width="250" height="150">|<img src="image/blackSkirt 1.png" width="250" height="150">|<img src="image/blackPants 1.png" width="250" height="150">|<img src="image/blackLongSkirt 1.png" width="250" height="150">|<img src="image/blackLongPants 1.png" width="250" height="150">|
 |**HANSUNG**|오른쪽정렬|중앙정렬|
+
+
