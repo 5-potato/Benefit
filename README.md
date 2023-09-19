@@ -63,7 +63,8 @@
 <br><hr><br>
 
 ### 팀원
-강다현, 김예원, 양인서, 오유진
+<a href="https://github.com/hyeonda02">강다현</a>, <a href="https://github.com/yewon0219">김예원</a>, <a href="https://github.com/
+sheepyis">양인서</a>, <a href="https://github.com/0hyujin">오유진</a>
 
 ### 지도 교수님
 계희원 교수님
